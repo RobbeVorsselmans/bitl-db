@@ -1,0 +1,144 @@
+{
+  "containers": [
+    {
+      "id": "c1",
+      "content": "Elektronica",
+      "weight": 1200,
+      "originCountry": "nl",
+      "destinationCountry": "de"
+    },
+    {
+      "id": "c2",
+      "content": "Meubilair",
+      "weight": 3500,
+      "originCountry": "be",
+      "destinationCountry": "fr"
+    },
+    {
+      "id": "c3",
+      "content": "Boeken",
+      "weight": 2500,
+      "originCountry": "fr",
+      "destinationCountry": "es"
+    },
+    {
+      "id": "c4",
+      "content": "Kleding",
+      "weight": 1800,
+      "originCountry": "de",
+      "destinationCountry": "it"
+    },
+    {
+      "id": "c5",
+      "content": "Rubberen Eendjes",
+      "weight": 500,
+      "originCountry": "cn",
+      "destinationCountry": "us"
+    },
+    {
+      "id": "c6",
+      "content": "Keukengerei",
+      "weight": 1500,
+      "originCountry": "nl",
+      "destinationCountry": "au"
+    },
+    {
+      "id": "c7",
+      "content": "Sportartikelen",
+      "weight": 2200,
+      "originCountry": "jp",
+      "destinationCountry": "kr"
+    },
+    {
+      "id": "c8",
+      "content": "Sieraden",
+      "weight": 300,
+      "originCountry": "be",
+      "destinationCountry": "sa"
+    },
+    {
+      "id": "c9",
+      "content": "Schoenen",
+      "weight": 1200,
+      "originCountry": "it",
+      "destinationCountry": "br"
+    },
+    {
+      "id": "c10",
+      "content": "Cosmetica",
+      "weight": 800,
+      "originCountry": "fr",
+      "destinationCountry": "de"
+    },
+    {
+      "id": "c11",
+      "content": "Onzichtbare Inkt",
+      "weight": 10,
+      "originCountry": "se",
+      "destinationCountry": "de"
+    },
+    {
+      "id": "c12",
+      "content": "Geneesmiddelen",
+      "weight": 900,
+      "originCountry": "in",
+      "destinationCountry": "ng"
+    },
+    {
+      "id": "c13",
+      "content": "Kantoorartikelen",
+      "weight": 1300,
+      "originCountry": "gb",
+      "destinationCountry": "ca"
+    },
+    {
+      "id": "c14",
+      "content": "Wijn",
+      "weight": 2000,
+      "originCountry": "es",
+      "destinationCountry": "jp"
+    },
+    {
+      "id": "c15",
+      "content": "Koffiebonen",
+      "weight": 1100,
+      "originCountry": "br",
+      "destinationCountry": "us"
+    },
+    {
+      "id": "c16",
+      "content": "Plastic Flamingo's",
+      "weight": 1200,
+      "originCountry": "cn",
+      "destinationCountry": "au"
+    },
+    {
+      "id": "c17",
+      "content": "Boeken",
+      "weight": 2500,
+      "originCountry": "fr",
+      "destinationCountry": "no"
+    },
+    {
+      "id": "c18",
+      "content": "Beddengoed",
+      "weight": 1400,
+      "originCountry": "tr",
+      "destinationCountry": "it"
+    },
+    {
+      "id": "c19",
+      "content": "Bananen",
+      "weight": 1000,
+      "originCountry": "co",
+      "destinationCountry": "nl"
+    },
+    {
+      "id": "c20",
+      "content": "Opblaasbare Zwembaden",
+      "weight": 800,
+      "originCountry": "us",
+      "destinationCountry": "mx"
+    }
+  ]
+}
